@@ -7,7 +7,7 @@
 <!-- [![PyPI license](https://img.shields.io/pypi/l/ansicolortags.svg)](LICENCE) -->
 
 ### Dependencies :
-  ![dependencies](https://img.shields.io/badge/flutter_riverpod-0.14.0+3 -blue)
+- flutter_riverpod : ``0.14.0+3``
   
 
 <br> 
@@ -15,9 +15,9 @@
 A new Flutter project to build some features like ebay.
 
 
-### ⚠: I' not using IOS so there could a little problem there. try : `pod install`
+##### ⚠: I' not using IOS so there could a little problem there. try : `pod install`
  
- ----
+----
 ### Step 1: 
 Use firebase auth so that users can signin using
 their gmail account. I've used dummy as testCase. 
