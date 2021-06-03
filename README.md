@@ -7,34 +7,26 @@
 <!-- [![PyPI license](https://img.shields.io/pypi/l/ansicolortags.svg)](LICENCE) -->
 
 ### Dependencies :
-  ![dependencies](https://img.shields.io/badge/flutter_riverpod-0.14.0+3 -blue)
+  - ``flutter_riverpod: 0.14.0+3``
   
 
 <br> 
 
-A new Flutter project to build some features like ebay.
+A new Flutter project to build some features like ebay as Task from TakaSchool.
 
 
-### ⚠: I' not using IOS so there could a little problem there. try : `pod install`
+
+<br>  
+
+##### ⚠: I' not using IOS so there could a little problem there. try : `pod install`
  
- ----
-### Step 1: 
-Use firebase auth so that users can signin using
-their gmail account. I've used dummy as testCase. 
+----
+
+**_Step 1:_** Firebase email Auth 
+
+ &nbsp;  Use firebase auth so that users can signin using their gmail account. I've used dummy as testCase. 
+  - check [authWithRiverPod branch](https://github.com/yeasin50/eshop/tree/authWithRiverPod) or 
+  - commit [Step1_FirebaseAuthWithRiverPod](https://github.com/yeasin50/eshop/tree/d5c2a820e7bf2f64bf93947c9c6b08d19fb94740) 
 
 
-
-
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+**_Step 2:_**
