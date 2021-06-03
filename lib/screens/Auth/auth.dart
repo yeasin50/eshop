@@ -9,8 +9,8 @@ class AuthScreen extends StatelessWidget {
       child: Scaffold(
         body: Responsive(
           mobile: MobileView(),
-          tablet: DesktopView(),
-          desktop: DesktopView(),
+          tablet: MobileView(),
+          desktop: MobileView(),
         ),
       ),
     );
