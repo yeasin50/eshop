@@ -7,12 +7,13 @@
 <!-- [![PyPI license](https://img.shields.io/pypi/l/ansicolortags.svg)](LICENCE) -->
 
 ### Dependencies :
-  - ``flutter_riverpod: 0.14.0+3``
+- flutter_riverpod : ``0.14.0+3``
   
 
 <br> 
 
-A new Flutter project to build some features like ebay as Task from TakaSchool.
+
+A new Flutter project to build some features like ebay.
 
 
 
@@ -24,9 +25,9 @@ A new Flutter project to build some features like ebay as Task from TakaSchool.
 
 **_Step 1:_** Firebase email Auth 
 
- &nbsp;  Use firebase auth so that users can signin using their gmail account. I've used dummy as testCase. 
-  - check [authWithRiverPod branch](https://github.com/yeasin50/eshop/tree/authWithRiverPod) or 
-  - commit [Step1_FirebaseAuthWithRiverPod](https://github.com/yeasin50/eshop/tree/d5c2a820e7bf2f64bf93947c9c6b08d19fb94740) 
+ - &nbsp; Use firebase auth so that users can signin using their gmail account. I've used dummy as testCase. 
+    - check [authWithRiverPod branch](https://github.com/yeasin50/eshop/tree/authWithRiverPod) or 
+    - commit [Step1_FirebaseAuthWithRiverPod](https://github.com/yeasin50/eshop/tree/d5c2a820e7bf2f64bf93947c9c6b08d19fb94740) 
 
 
 **_Step 2:_**
